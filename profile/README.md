@@ -23,7 +23,7 @@ This organization is maintained by the RoyalsMC development team.
 ## Links
 
 🌐 **Website:** https://www.royalsmc.com  
-💬 **Discord:** discord.gg/royalsmc
+💬 **Discord:** https://discord.gg/royalsmc
 
 ---
 
